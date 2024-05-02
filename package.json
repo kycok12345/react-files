@@ -1,5 +1,5 @@
 {
-  "name": "react-files",
+  "name": "react-files-fixed",
   "version": "3.0.0",
   "main": "dist/index.js",
   "description": "A file input (dropzone) management component for React",
